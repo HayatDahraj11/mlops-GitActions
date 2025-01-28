@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/hammadmajeed/ci_gh_actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hammadmajeed/ci_gh_actions/actions/workflows/main.yml)
