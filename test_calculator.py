@@ -26,4 +26,3 @@ def test_divide():
     assert divide(9, 3) == 3
     with pytest.raises(ValueError):  # Expecting an error for division by zero
         divide(5, 0)
-
